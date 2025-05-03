@@ -5,8 +5,7 @@ This project demonstrates how to blink LEDs using a microcontroller. The example
 
 ## Requirements
 - Microcontroller (e.g., STM32, Arduino)
-- LEDs
-- Resistors (if needed)
+- LEDs (onboard)
 - Power source
 
 ## Pin Configuration
